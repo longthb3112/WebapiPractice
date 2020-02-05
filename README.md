@@ -5,3 +5,10 @@
 * Design APIs with association URIs
 * Version your APIs
 
+# Installation
+* Change ConnectionString to SQL Database in Web.config
+* Update SQL Database : 
+```
+update-database
+```
+
