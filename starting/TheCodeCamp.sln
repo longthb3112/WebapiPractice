@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.102
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheCodeCamp", "TheCodeCamp\TheCodeCamp.csproj", "{715EEC2D-FFB8-46AF-B845-2367732818CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject2", "UnitTestProject2\UnitTestProject2.csproj", "{86BCD8F3-01F3-4B97-A009-ADF0295C9753}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{715EEC2D-FFB8-46AF-B845-2367732818CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{715EEC2D-FFB8-46AF-B845-2367732818CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{715EEC2D-FFB8-46AF-B845-2367732818CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86BCD8F3-01F3-4B97-A009-ADF0295C9753}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86BCD8F3-01F3-4B97-A009-ADF0295C9753}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86BCD8F3-01F3-4B97-A009-ADF0295C9753}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86BCD8F3-01F3-4B97-A009-ADF0295C9753}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
